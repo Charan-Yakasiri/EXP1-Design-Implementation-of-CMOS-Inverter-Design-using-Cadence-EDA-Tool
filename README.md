@@ -12,7 +12,8 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+SCHEMATIC SIMULATION 
+       - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION  - Commands to get into Cadence
 
 
 1.	Right Click and open the terminal window
@@ -127,7 +128,8 @@ iv)	Creating the new test cell view
 
 •	Follow the step 3(ii) d to make the required connections
 
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image](https://github.com/user-attachments/assets/f39f9dcd-7145-47e7-b590-25bd9a5c7341)
+
 
 
  
